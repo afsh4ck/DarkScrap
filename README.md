@@ -32,9 +32,9 @@ sudo service tor status
 ```
 
 ## Características
-* **Descarga de Medios**: Descarga todos los archivos multimedia desde una página web.
+* **Descarga de Medios**: Descarga todos los archivos multimedia desde un Onion Link.
 * **Crawling desde URL Única**: Obtén enlaces, comentarios y media desde una única URL.
-* **Reconocimiento Facial**: Reconoce rostros en imágenes obtenidas.
+* **Reconocimiento Facial**: Reconocimiento de rostros en imágenes obtenidas.
 * **Crawling desde Archivos**:
   - **Txt**: Crawling desde un archivo de texto con múltiples URLs.
   - **Csv**: Crawling desde un archivo CSV con múltiples URLs.
