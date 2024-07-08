@@ -36,7 +36,7 @@ sudo service tor status
   - **Csv**: Crawling desde un archivo CSV con múltiples URLs.
   - **Excel**: Crawling desde un archivo Excel con múltiples URLs.
   
-## Créditos
+## Autor
 - Autor:       afsh4ck
 - Instagram:   <a href="https://www.instagram.com/afsh4ck">afsh4ck</a>
 - Youtube:     <a href="https://youtube.com/@afsh4ck">afsh4ck</a>
