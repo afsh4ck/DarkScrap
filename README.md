@@ -5,7 +5,7 @@
 Este programa es una herramienta de código abierto diseñada para realizar operaciones de scraping y descarga de medios desde un onion link en la deep web de manera automatizada. Utiliza la red Tor para asegurar la privacidad y el anonimato durante las operaciones de scraping, garantizando que las solicitudes sean enrutadas de forma anónima a través de nodos Tor.
 <br><br>
 Todas las imágenes, documentos, links y comentarios del código fuente se almacenan en el directorio /Media, dentro de la carpeta con el nombre del site que hemos introducido.
-<br>
+<br><br>
 ![image](https://github.com/afsh4ck/DarkScrap/assets/132138425/feb79af5-3a3f-4009-bf68-7a345763bd60)
 
 ## Testeado en
