@@ -1,48 +1,42 @@
-                                        =====The Dark-Scrape=====
-<p align="center">
-  <img src="https://i.imgur.com/XlgFleT.png?1">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3-brightgreen.svg?style=plastic">
-  <img src="https://img.shields.io/badge/NetHunter-✔-red.svg?style=plastic">
-  <img src="https://img.shields.io/badge/OSINT-red.svg?style=plastic">
-  <img src="https://img.shields.io/badge/Arc-Linux-red.svg">
-  <img src="https://img.shields.io/badge/-Tor-green.svg">
-  <h4 align="center">OSINT Tool to find the Media Links in Tor Sites</h4>
-</p>
-<p align="center">
-  <br>
-  <b>Available in</b>
-  <br>
-  <img src="https://i.imgur.com/IPiAUZi.png">
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/MMb0FUg.png?1">
-</p>
+# DarkScrap
+![image](https://github.com/afsh4ck/DarkScrap/assets/132138425/3517d58c-5dd2-471f-89d3-6a6c0a0fb287)
 
-## Tested On
+## Descripción
+Este programa es una herramienta de código abierto diseñada para realizar operaciones de scraping y descarga de medios desde un onion link en la deep web de manera automatizada. Utiliza la red Tor para asegurar la privacidad y el anonimato durante las operaciones de scraping, garantizando que las solicitudes sean enrutadas de forma anónima a través de nodos Tor.
 
-* Kali Linux 2019.2
-* Ubuntu 18.04
-* Nethunter
+## Testeado en
+
+* Kali Linux 2024.1
+* Kali Nethunter
 * Arc Linux
 
-
-## Installation
+## Instalación
 
 ```bash
-git clone https://github.com/itsmehacker/DarkScrape.git
+git clone https://github.com/afsh4ck/DarkScrap.git
 pip3 install -r requirements.txt
+python3 darkscrap.py
 ```
-## Features
-* Download Media
-* Scrape From Single Url
-* Face Recognition
-* Scraping From Files
-  * Txt 
-  * Csv 
-  * Excel
-## Contributor
-thewhiteh4t @thewhiteh4t
-## Inspired By:
-Jake Creps @jakecreps
+## Iniciar TOR
+
+```bash
+sudo apt update
+sudo apt install tor
+sudo service tor start
+sudo service tor status
+```
+
+## Características
+* **Descarga de Medios**: Descarga todos los archivos multimedia desde una página web.
+* **Crawling desde URL Única**: Obtén enlaces, comentarios y media desde una única URL.
+* **Reconocimiento Facial**: Reconoce rostros en imágenes obtenidas.
+* **Crawling desde Archivos**:
+  - **Txt**: Crawling desde un archivo de texto con múltiples URLs.
+  - **Csv**: Crawling desde un archivo CSV con múltiples URLs.
+  - **Excel**: Crawling desde un archivo Excel con múltiples URLs.
+  
+## Autor
+@afsh4ck
+
+## Inspiración:
+Este programa está basado en el programa original <a href="https://github.com/itsmehacker/DarkScrape/tree/master" target=_blanc>Dark Scrape</a>, añadiendo nueva funcionalidades y mejoras.
