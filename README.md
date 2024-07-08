@@ -18,6 +18,7 @@ pip3 install -r requirements.txt
 python3 darkscrap.py
 ```
 ## Iniciar TOR
+Es necesario iniciar TOR antes de ejecutar la herramienta de la siguiente manera:
 
 ```bash
 sudo apt update
