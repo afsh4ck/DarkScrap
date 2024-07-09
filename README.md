@@ -1,5 +1,6 @@
 # DarkScrap
-![image](https://github.com/afsh4ck/DarkScrap/assets/132138425/3517d58c-5dd2-471f-89d3-6a6c0a0fb287)
+![image](https://github.com/afsh4ck/DarkScrap/assets/132138425/2fcc168f-4afc-47ee-a12e-7a03364e6922)
+
 
 ## Descripción
 Este programa es una herramienta de código abierto diseñada para realizar operaciones de scraping y descarga de medios desde un onion link en la deep web de manera automatizada. Utiliza la red Tor para asegurar la privacidad y el anonimato durante las operaciones de scraping, garantizando que las solicitudes sean enrutadas de forma anónima a través de nodos Tor.
