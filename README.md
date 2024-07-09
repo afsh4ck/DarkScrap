@@ -33,11 +33,11 @@ sudo service tor status
 
 ## Características
 * **Descarga de Medios**: Descarga todos los archivos multimedia desde un Onion Link.
-* **Crawling desde URL Única**: Obtén enlaces, comentarios y media desde una única URL.
+* **Scraping desde URL Única**: Obtén enlaces, comentarios y media desde una única URL.
 * **Reconocimiento Facial**: Reconocimiento de rostros en imágenes obtenidas.
-* **Crawling desde Archivos**:
-  - **Txt**: Crawling desde un archivo de texto con múltiples URLs.
-  - **Csv**: Crawling desde un archivo CSV con múltiples URLs.
+* **Scraping desde Archivos**:
+  - **Txt**: Scraping desde un archivo de texto con múltiples URLs.
+  - **Csv**: Scraping desde un archivo CSV con múltiples URLs.
   - **Excel**: Crawling desde un archivo Excel con múltiples URLs.
   
 ## Autor
@@ -48,7 +48,7 @@ sudo service tor status
 ## Inspiración:
 Este programa está basado en el programa original <a href="https://github.com/itsmehacker/DarkScrape/tree/master" target=_blanc>Dark Scrape</a>, añadiendo nuevas funcionalidades y mejoras, cómo:
 - La descarga automática de documentos e imágenes
-- El scrapping de links y comentarios del código fuente a un archivo de texto
+- El scraping de links y comentarios del código fuente a un archivo de texto
 - La creación de una carpeta con el nombre del site y mejor gestión de archivos
 - Manejo de excepciones y mantenimiento
 
