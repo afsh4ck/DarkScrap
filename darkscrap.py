@@ -14,16 +14,14 @@ VERSION = '1.0'
 
 def banner():
     banner = r'''                                                                                       
-
     ____                __   _____                         
    / __ \ ____ _ _____ / /__/ ___/ _____ _____ ____ _ ____ 
   / / / // __ `// ___// //_/\__ \ / ___// ___// __ `// __ \
  / /_/ // /_/ // /   / ,<  ___/ // /__ / /   / /_/ // /_/ /
 /_____/ \__,_//_/   /_/|_|/____/ \___//_/    \__,_// .___/ 
-                                                  /_/      
-                                                                                        
-'''
-    print(G + banner + W)
+                                                  /_/ '''
+    print(G + banner)
+    print("[*] Advanced Scraping Tool for Onion Links\n" + W)
     print(R + "Creado por: " + G + "afsh4ck" + W)
     print(R + "Sígueme en: " + G + "Instagram y Youtube" + W)
     print(R + "Versión: " + G + VERSION + W + '\n')
