@@ -1,5 +1,5 @@
 # DarkScrap
-![image](https://github.com/afsh4ck/DarkScrap/assets/132138425/2fcc168f-4afc-47ee-a12e-7a03364e6922)
+![image](https://github.com/afsh4ck/DarkScrap/assets/132138425/6cc8a80f-a5c9-4aa9-9717-25fbf49c5a87)
 
 
 ## Descripción
