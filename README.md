@@ -31,6 +31,8 @@ sudo apt install tor
 sudo service tor start
 sudo service tor status
 ```
+## Video de la herramienta
+https://youtu.be/SbdPsxYT_mU?si=gKIolbbuNXKMUycs
 
 ## Características
 * **Descarga de Medios**: Descarga todos los archivos multimedia desde un Onion Link.
