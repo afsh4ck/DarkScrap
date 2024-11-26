@@ -24,12 +24,14 @@ def banner():
     print(G + banner + W)
     
     text = "[*] Advanced Scraping Tool for Onion Links [*]"
+    developer = "[*] Developed by: afsh4ck [*]"
     
     banner_width = 60
     padding = (banner_width - len(text)) // 2
     
     print("-" * banner_width)
     print(" " * padding + text + " " * padding)
+    print(" " * padding + developer + " " * padding)
     print("-" * banner_width)
 
 session = requests.session()
