@@ -49,7 +49,7 @@ https://youtu.be/SbdPsxYT_mU?si=gKIolbbuNXKMUycs
 - Youtube:     <a href="https://youtube.com/@afsh4ck">afsh4ck</a>
 
 ## Inspiración:
-Este programa está basado en el programa original <a href="https://github.com/itsmehacker/DarkScrape/tree/master" target=_blanc>Dark Scrape</a>, añadiendo nuevas funcionalidades y mejoras, cómo:
+Este programa está basado en el programa original <a href="https://github.com/itsmehacker/DarkScrape/tree/master" target=_blanc>Dark Scrape</a> (fuera de mantenimiento), añadiendo nuevas funcionalidades y mejoras, cómo:
 - La descarga automática de documentos e imágenes
 - El scraping de links y comentarios del código fuente a un archivo de texto
 - La creación de una carpeta con el nombre del site y mejor gestión de archivos
